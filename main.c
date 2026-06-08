@@ -33,7 +33,7 @@ int main()
 
 
     printf("Total: %d\n",total);
-    printf("Average: %2f\n",average);
+    printf("Average: %.2f\n",average);
     printf("Grade: %c\n",grade);
 
     if (m1>=40 && m2>=40 && m3>=40)
