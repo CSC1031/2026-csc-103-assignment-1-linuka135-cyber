@@ -1,3 +1,5 @@
+INDEX No- AS20250368
+
 ### This C program that calculates a student's total marks, average, grade, and pass/fail status.
 
 
